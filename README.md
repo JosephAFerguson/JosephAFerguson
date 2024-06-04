@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Hello there 👋
+I am a computer science student at the University of Cincinnati.
+A few topics that I am interested in are data analysis, software engineering, network engineering, and game development.
+As all things go, I am still a beginner in this vast field of knowledge. My github mainly features projects that showcase my learning.
 <!--
 **JosephAFerguson/JosephAFerguson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
